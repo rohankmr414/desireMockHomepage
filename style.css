@@ -1,0 +1,13 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cards {
+    padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 800px) {
+    .cards {
+        padding: 0 2rem 2rem 2rem;
+    }
+}
